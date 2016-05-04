@@ -10,5 +10,5 @@ Prerequisits:
 
 
 
-<h2>Im getting ready to do some crazy api callbacks via node.js and wrap a ui around it all with js type shit!</h2>
-
+Im getting ready to do some crazy api callback functions via node.js and<br>
+wrap a ui around it all with some js sh*t!
